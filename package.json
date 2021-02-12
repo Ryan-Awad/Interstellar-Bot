@@ -1,0 +1,26 @@
+{
+  "name": "Inter-Bot-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apod-nasa": "^1.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "country-code-info": "^0.1.0",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "mars-insight-weather-node": "^0.2.0",
+    "mrp-api": "0.0.2",
+    "node-apod": "^1.6.4",
+    "request": "^2.88.0",
+    "starname": "^1.0.3",
+    "which-country": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
